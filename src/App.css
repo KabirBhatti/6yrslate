@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Mono';
+  src: url(./fonts/Proto\ Mono\ Regular.ttf) format(truetype);
+  font-weight: 400; 
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mono';
+  src: url(./fonts/Proto\ Mono\ Semi\ Bold.ttf) format(truetype);
+  font-weight: 700; 
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mono';
+  src: url(./fonts/Proto\ Mono\ Light.ttf) format(truetype);
+  font-weight: 300;
+  font-style: normal;
+}
+.protoMono{
+  font-family: 'Mono', sans-serif;
+}
